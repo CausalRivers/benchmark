@@ -1,0 +1,11 @@
+[tool.black]
+line-length = 200
+
+[tool.isort]
+line_length = 200
+
+[tool.flake8]
+max-line-length = 200
+
+[tool.ruff]
+line-length = 200
